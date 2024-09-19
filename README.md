@@ -103,7 +103,8 @@ Welcome to send a pull request to add papers and relevant content.
 - **Classifying design-level requirements using machine learning for a recommender of interaction design patterns** (2020), IETS'20, Viridiana Silva-Rodríguez, et al. [[pdf]](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-sen.2019.0291) 
 - **Supporting analysts by dynamic extraction and classification of requirements-related knowledge** (2019), ICSE'19, Zahra Shakeri Hossein Abad, et al. [[pdf]](https://ieeexplore.ieee.org/document/8812084) 
 - **Requirements Classification with Interpretable Machine Learning and Dependency Parsing** (2019), RE'19, Fabiano Dalpiaz, et al. [[pdf]](https://ieeexplore.ieee.org/document/8920401) 
-- **Optimizing for Recall in Automatic Requirements Classification: An Empirical Study** (2019), RE'19, 
+- **Optimizing for Recall in Automatic Requirements Classification: An Empirical Study** (2019), RE'19,
+- **Automatically classifying non-functional requirements using deep neural network** (2022), Pattern Recognition, Bing Li , et al. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0031320322004289) 
 
 ## Requirements Modeling
 - **Utilizing Process Models in the Requirements Engineering Process Through Model2Text Transformation** (2024), RE'24,
